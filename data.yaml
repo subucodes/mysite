@@ -1,0 +1,62 @@
+name: Subbu
+title: Full-Stack Developer & Data Engineer
+
+about: >
+  I have over a decade of experience building scalable web and data solutions on cloud and on-premise. 
+  Proficient in Python for backend services, frontend technologies like HTML, CSS, JS, and various databases. 
+  I leverage AWS services for hosting, containerization with Docker, and CI/CD pipelines.
+
+experiences:
+  - company: Pentafox Technologies Private Limited
+    position: Technical Architect
+    duration: March 2022 - Present
+    description: >
+      Designed scalable web portals, APIs, and mobile applications for NBFC, e-commerce, and healthcare.
+      Implemented ELT pipelines for data ingestion using tools like Google Cloud Fusion, Hevo Data, and Airbyte.
+  
+  - company: Cloud Kinetics
+    position: Technical Consultant
+    duration: July 2023 - Present
+    description: >
+      Designed CI/CD pipelines with AWS tools and implemented scalable microservices for authentication, authorization, and migration tasks.
+
+  - company: Infosys
+    position: Consultant
+    duration: July 2021 - March 2022
+    description: >
+      Spearheaded the development of an incident management system and integrated various cloud services for enhanced functionality and reporting.
+  
+  - company: Accenture
+    position: Application Development Senior Analyst
+    duration: December 2017 - April 2019
+    description: >
+      Developed ELT modules, managed data migrations, and designed custom solutions improving client contracts and reducing system loads.
+
+skills:
+  - Python
+  - FastAPI
+  - AWS
+  - Docker
+  - GCP
+  - Data Pipelines
+  - MySQL
+  - Postgres
+
+projects:
+  - name: Loan Management System
+    description: >
+      Developed a highly scalable loan management system using FastAPI and SQL Alchemy, designed to work with multiple databases.
+    link: https://project-link.com
+  
+  - name: Zendesk Ticket Migration
+    description: >
+      Implemented an on-premise solution to migrate Zendesk tickets into PostgreSQL, along with attachments for local access.
+    link: https://project-link.com
+
+showContact: false
+contact:
+  email: your.email@example.com
+  linkedin: https://www.linkedin.com/in/yourprofile
+  github: https://github.com/yourusername
+
+textLimit: 400
